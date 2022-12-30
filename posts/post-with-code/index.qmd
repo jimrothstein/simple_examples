@@ -1,0 +1,10 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2022-12-29"
+#   jr added base (for base:: R)
+categories: [news, code, analysis, base]
+image: "image.jpg"
+---
+
+This is a post with executable code.

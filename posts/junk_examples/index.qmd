@@ -1,0 +1,8 @@
+---
+title: "My JUNK Post"
+description: "Post description"
+author: "Fizz McPhee"
+date: "5/22/2021"
+categories: [junk]
+# draft: true
+---
